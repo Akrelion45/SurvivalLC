@@ -1,3 +1,5 @@
+EDIT: 14:22 Probably fixxed the bug. Needs more testing. (Source: IsPartyRaidZone() entfernt von den ganzen GAME02,GAME01,Game00 Maps sowie Single_dugeon2-4 
+
 13:48 Fixxed Teleport Location Bug
 
 Bug: Gruppen Disconnect: (Der letzte der PVPWARFARE annimmt wird nicht teleportiert und die gruppe spackt rum) (Keine Gruppe mehr zwischen den beiden partein)
