@@ -1,1 +1,50 @@
+13:48 Fixxed Teleport Location Bug
 
+Bug: Gruppen Disconnect: (Der letzte der PVPWARFARE annimmt wird nicht teleportiert und die gruppe spackt rum) (Keine Gruppe mehr zwischen den beiden partein)
+
+2017-06-01 13:45:45,161 INFO  [             Log.cpp :   148] - ATTENDANCE EXP SYSTEM > testo : testo : testtest : 1 : 0
+2017-06-01 13:45:45,620 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:46,620 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:47,620 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:48,620 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:49,620 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:50,620 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:51,620 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:52,620 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:53,620 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:54,620 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:55,620 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:56,620 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:57,621 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:58,621 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:59,621 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:46:00,623 INFO  [       DBManager.cpp :   147] - save Character : id[artarex] / user_index[262884] / char_index[15] / char_name[ELEMENTARIST] / disconnect[0]
+2017-06-01 13:46:00,623 INFO  [             Log.cpp :   148] - CHAR_UPDATE > ELEMENTARIST : ELEMENTARIST : artarex : 2119779979403
+2017-06-01 13:46:00,627 INFO  [       DBManager.cpp :   147] - save Character : id[slayer72] / user_index[262868] / char_index[5] / char_name[[HGM]CuttingEDGE] / disconnect[0]
+2017-06-01 13:46:00,627 INFO  [             Log.cpp :   148] - CHAR_UPDATE > [HGM]CuttingEDGE : [HGM]CuttingEDGE : slayer72 : 4999999675018144
+2017-06-01 13:46:00,627 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:46:00,641 INFO  [DBProcess_SaveChar.cpp :   369] - save Character completed: id[artarex] / user_index[262884] / char_index[15] / char_name[ELEMENTARIST] / disconnect[0]
+2017-06-01 13:46:00,646 INFO  [DBProcess_SaveChar.cpp :   369] - save Character completed: id[slayer72] / user_index[262868] / char_index[5] / char_name[[HGM]CuttingEDGE] / disconnect[0]
+2017-06-01 13:45:45,161 INFO  [             Log.cpp :   148] - ATTENDANCE EXP SYSTEM > testo : testo : testtest : 1 : 0
+2017-06-01 13:45:45,620 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:46,620 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:47,620 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:48,620 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:49,620 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:50,620 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:51,620 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:52,620 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:53,620 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:54,620 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:55,620 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:56,620 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:57,621 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:58,621 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:45:59,621 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:46:00,623 INFO  [       DBManager.cpp :   147] - save Character : id[artarex] / user_index[262884] / char_index[15] / char_name[ELEMENTARIST] / disconnect[0]
+2017-06-01 13:46:00,623 INFO  [             Log.cpp :   148] - CHAR_UPDATE > ELEMENTARIST : ELEMENTARIST : artarex : 2119779979403
+2017-06-01 13:46:00,627 INFO  [       DBManager.cpp :   147] - save Character : id[slayer72] / user_index[262868] / char_index[5] / char_name[[HGM]CuttingEDGE] / disconnect[0]
+2017-06-01 13:46:00,627 INFO  [             Log.cpp :   148] - CHAR_UPDATE > [HGM]CuttingEDGE : [HGM]CuttingEDGE : slayer72 : 4999999675018144
+2017-06-01 13:46:00,627 INFO  [             Log.cpp :   148] - RAID DEBUG INZONE QUIT REQ > ELEMENTARIST : ELEMENTARIST : artarex : nGoZone : 1 : nRebirth : 0
+2017-06-01 13:46:00,641 INFO  [DBProcess_SaveChar.cpp :   369] - save Character completed: id[artarex] / user_index[262884] / char_index[15] / char_name[ELEMENTARIST] / disconnect[0]
+2017-06-01 13:46:00,646 INFO  [DBProcess_SaveChar.cpp :   369] - save Character completed: id[slayer72] / user_index[262868] / char_index[5] / char_name[[HGM]CuttingEDGE] / disconnect[0]
